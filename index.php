@@ -75,7 +75,7 @@ $conn->close();
                 </div>
             </div>
             <div class="image">
-                <img src="images/3.jpg" alt="profile">
+                <img src="3.jpg" alt="profile">
             </div>
         </div>
     </section>
@@ -178,7 +178,7 @@ $conn->close();
             <h1 class="title">My Gallery</h1>
             <div class="gallery-grid">
                 <div class="gallery-item">
-                    <img src="images/2.jpg" alt="My Favourite Fruit" width="200">
+                    <img src="2.jpg" alt="My Favourite Fruit" width="200">
 	
 	<script>
     window.onbeforeunload = function () {
